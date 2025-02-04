@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./rowansproject/static/css/main.e6c13ad2.css",
-    "main.js": "./rowansproject/static/js/main.cd8931e2.js",
-    "static/js/488.4196c267.chunk.js": "./rowansproject/static/js/488.4196c267.chunk.js",
-    "index.html": "./rowansproject/index.html",
-    "main.e6c13ad2.css.map": "./rowansproject/static/css/main.e6c13ad2.css.map",
-    "main.cd8931e2.js.map": "./rowansproject/static/js/main.cd8931e2.js.map",
-    "488.4196c267.chunk.js.map": "./rowansproject/static/js/488.4196c267.chunk.js.map"
+    "main.css": "./static/css/main.e6c13ad2.css",
+    "main.js": "./static/js/main.bcff46c0.js",
+    "static/js/488.4196c267.chunk.js": "./static/js/488.4196c267.chunk.js",
+    "index.html": "./index.html",
+    "main.e6c13ad2.css.map": "./static/css/main.e6c13ad2.css.map",
+    "main.bcff46c0.js.map": "./static/js/main.bcff46c0.js.map",
+    "488.4196c267.chunk.js.map": "./static/js/488.4196c267.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.cd8931e2.js"
+    "static/js/main.bcff46c0.js"
   ]
 }
